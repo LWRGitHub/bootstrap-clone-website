@@ -18,3 +18,35 @@
     background-size: cover;
     height: 300px;
 }
+
+.back-img1{
+    background-image: url(../img/lotus-in-front-of-house.jpg);
+    background-size: cover;
+    height: 300px;
+}
+.back-img2{
+    background-image: url(../img/guy-driving-lotus.jpg);
+    background-size: cover;
+    height: 300px;
+}
+.back-img3{
+    background-image: url(../img/lotus-photo-screen.jpg);
+    background-size: cover;
+    height: 300px;
+}
+
+.back-img4{
+    background-image: url(../img/yellow-lotus-bottom.jpg);
+    background-size: cover;
+    height: 150px;
+}
+.back-img5{
+    background-image: url(../img/black-lotus-bottom.jpg);
+    background-size: cover;
+    height: 150px;
+}
+.back-img6{
+    background-image: url(../img/2nd-bottom-black-lotus.jpg);
+    background-size: cover;
+    height: 150px;
+}
